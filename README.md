@@ -1,89 +1,118 @@
-<div align="center">
+# 👋 Hey, I'm Mantra Pandya
 
-# Hey, I'm Mantra 👋
+### Data Analytics • AI • Python • SQL
 
-### **Data Analyst · Python · SQL · Power BI · AI**
+I'm a Computer Science student interested in **Data Analytics, Artificial Intelligence, and turning raw data into meaningful insights.**
 
-*I turn raw data into meaningful insights and practical solutions.*
+I enjoy working with data, building analytical projects, exploring AI-powered solutions, and continuously learning new technologies through hands-on projects.
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Mantrapandya)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=googlechrome\&logoColor=white)](https://github.com/Mantrapandya/portfolio)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=databricks\&logoColor=white)](#)
-
-</div>
-
-<br>
-
-## About
-
-I'm **Mantra Pandya**, a Computer Science student focused on **Data Analytics, Data Science, and Artificial Intelligence**.
-
-I enjoy taking a dataset from **raw data → exploration → visualization → insights**, while building practical projects that solve real-world problems.
-
-Currently, I'm exploring the intersection of **Data Analytics and AI**, with a focus on Python, SQL, Business Intelligence, Machine Learning, and AI-powered applications.
+I like understanding the story behind data, solving practical problems, and building things that turn ideas into useful solutions.
 
 ---
 
-## What I work with
+## About Me ~
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Data
-
-`Python`
-`SQL`
-`Pandas`
-`NumPy`
-
-</td>
-
-<td width="33%" valign="top">
-
-### Analytics
-
-`EDA`
-`Data Cleaning`
-`Statistics`
-`Data Visualization`
-
-</td>
-
-<td width="33%" valign="top">
-
-### BI & AI
-
-`Power BI`
-`Machine Learning`
-`Generative AI`
-`AI Agents`
-
-</td>
-</tr>
-</table>
+* 🎓 Computer Science student
+* 📊 Interested in **Data Analytics & Data Science**
+* 🤖 Exploring **Artificial Intelligence & AI Agents**
+* 🐍 Working primarily with **Python & SQL**
+* 📈 Experienced with **Exploratory Data Analysis & Data Visualization**
+* 🛠️ Building projects to strengthen my real-world development skills
+* 🚀 Currently looking for opportunities to learn, contribute, and grow in **Data/AI roles**
 
 ---
 
-## Experience
+## Experience ~
 
 ### Data Analytics Intern
 
 **Infolabz IT Services**
 
-Worked on practical data analytics tasks involving **data preprocessing, exploratory data analysis, visualization, and statistical techniques**.
-
-Focused on transforming datasets into meaningful insights through Python-based analytical workflows.
+Worked on data-focused tasks involving data analysis, preprocessing, visualization, and extracting meaningful insights from datasets.
 
 ---
 
-## Selected Projects
+## Tech Stack ~
 
-### WeatherAirWitch
+| Category          | Technologies                                              |
+| ----------------- | --------------------------------------------------------- |
+| **Languages**     | Python · SQL                                              |
+| **Data Analysis** | Pandas · NumPy · Exploratory Data Analysis                |
+| **Visualization** | Matplotlib · Seaborn · Power BI                           |
+| **AI / ML**       | Machine Learning · AI · Generative AI                     |
+| **Databases**     | SQL                                                       |
+| **Tools**         | Jupyter Notebook · Git · GitHub · VS Code                 |
+| **Other**         | Data Cleaning · Data Preprocessing · Statistical Analysis |
 
-**Weather · Air Quality · Python**
+---
 
-A practical application workin
+## Featured Projects ~
+
+🌟 **WeatherAirWitch**
+Weather and air-quality focused project combining data with a practical user-facing application.
+`Python` · `Data Analysis` · `API`
+[↗ View Repository](https://github.com/Mantrapandya/weatherairwitch)
+
+🌟 **Portfolio**
+Personal developer portfolio showcasing my projects, skills, and work.
+`HTML` · `CSS` · `JavaScript`
+[↗ View Repository](https://github.com/Mantrapandya/portfolio)
+
+🌟 **Uber Data Analysis**
+Exploratory analysis of Uber ride data using Python to identify patterns, trends, and useful insights.
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
+[↗ View Repository](https://github.com/Mantrapandya/uber_data_analysis_project)
+
+🌟 **Power BI E-commerce Dashboard**
+Interactive dashboard for analyzing sales, orders, categories, and regional performance.
+`Power BI` · `Data Visualization` · `Business Analytics`
+[↗ View Repository](https://github.com/Mantrapandya/powerbi-ecommerce-dashboard)
+
+🌟 **Jupyter Data Analysis**
+Exploratory data analysis project focused on understanding datasets through Python and Jupyter Notebook.
+`Python` · `Pandas` · `EDA` · `Jupyter Notebook`
+[↗ View Repository](https://github.com/Mantrapandya/jupyter-data-analysis)
+
+> 🚧 More projects are on the way — continuously learning and building.
+
+---
+
+## Certifications ~
+
+📜 Continuously expanding my skills through industry-oriented certifications and learning programs in **AI, Data Analytics, and modern developer tools.**
+
+---
+
+## Currently Learning ~
+
+```text
+Data Analytics
+      ↓
+Python + SQL
+      ↓
+Machine Learning
+      ↓
+Artificial Intelligence
+      ↓
+AI Agents & Automation
+```
+
+---
+
+## Let's Connect ~
+
+I'm always open to connecting with people interested in **Data, AI, Python, Analytics, and technology.**
+
+* 💼 [LinkedIn](#)
+* 🌐 [Portfolio](https://github.com/Mantrapandya/portfolio)
+* 📧 Open to Data/AI internship opportunities
+
+---
+
+### Thanks for stopping by! 🚀
+
+*Learning by building. Building by solving. Growing every day.*
+
+
+`Build → Automate → Analyze → Improve`
+
